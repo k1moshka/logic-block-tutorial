@@ -1,0 +1,50 @@
+{
+  "name": "logic-block-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial of usage the logic block with react",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1moshka/logic-block-tutorial.git"
+  },
+  "keywords": [
+    "tutorial",
+    "logic-block",
+    "react-logic-block"
+  ],
+  "author": "Ilya Melishnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k1moshka/logic-block-tutorial/issues"
+  },
+  "homepage": "https://github.com/k1moshka/logic-block-tutorial#readme",
+  "dependencies": {
+    "logic-block": "^1.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-logic-block": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/preset-flow": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "@rollup/plugin-babel": "^5.3.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^27.0.2",
+    "babel-loader": "8.0.2",
+    "babel-preset-jest": "^27.0.1",
+    "css-loader": "1.0.0",
+    "eslint": "^7.28.0",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "style-loader": "0.23.0",
+    "webpack": "4.19.1",
+    "webpack-cli": "3.1.1",
+    "webpack-dev-server": "3.1.8"
+  }
+}
